@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "animals",
-    "slug": "animals",
+    "name": "hesap makinesi",
+    "slug": "hesap",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.yilmazabdullah.hesap"
     },
     "web": {
       "favicon": "./assets/favicon.png"
